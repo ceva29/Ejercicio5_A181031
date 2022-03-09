@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\UNACH\LIC. SISTEMAS COMPUTACIONALES\NOVENO SEMESTRE\SERVICIOS WEB\Github\Ejercicio4\ServicioWebCliente\bin\Debug\ServicioWebCliente.exe.config
+C:\Users\HP\Documents\UNACH\LIC. SISTEMAS COMPUTACIONALES\NOVENO SEMESTRE\SERVICIOS WEB\Github\Ejercicio4\ServicioWebCliente\bin\Debug\ServicioWebCliente.exe
+C:\Users\HP\Documents\UNACH\LIC. SISTEMAS COMPUTACIONALES\NOVENO SEMESTRE\SERVICIOS WEB\Github\Ejercicio4\ServicioWebCliente\bin\Debug\ServicioWebCliente.pdb
+C:\Users\HP\Documents\UNACH\LIC. SISTEMAS COMPUTACIONALES\NOVENO SEMESTRE\SERVICIOS WEB\Github\Ejercicio4\ServicioWebCliente\obj\Debug\ServicioWebCliente.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\UNACH\LIC. SISTEMAS COMPUTACIONALES\NOVENO SEMESTRE\SERVICIOS WEB\Github\Ejercicio4\ServicioWebCliente\obj\Debug\ServicioWebCliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\UNACH\LIC. SISTEMAS COMPUTACIONALES\NOVENO SEMESTRE\SERVICIOS WEB\Github\Ejercicio4\ServicioWebCliente\obj\Debug\ServicioWebCliente.Properties.Resources.resources
+C:\Users\HP\Documents\UNACH\LIC. SISTEMAS COMPUTACIONALES\NOVENO SEMESTRE\SERVICIOS WEB\Github\Ejercicio4\ServicioWebCliente\obj\Debug\ServicioWebCliente.csproj.GenerateResource.cache
+C:\Users\HP\Documents\UNACH\LIC. SISTEMAS COMPUTACIONALES\NOVENO SEMESTRE\SERVICIOS WEB\Github\Ejercicio4\ServicioWebCliente\obj\Debug\ServicioWebCliente.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UNACH\LIC. SISTEMAS COMPUTACIONALES\NOVENO SEMESTRE\SERVICIOS WEB\Github\Ejercicio4\ServicioWebCliente\obj\Debug\ServicioWebCliente.exe
+C:\Users\HP\Documents\UNACH\LIC. SISTEMAS COMPUTACIONALES\NOVENO SEMESTRE\SERVICIOS WEB\Github\Ejercicio4\ServicioWebCliente\obj\Debug\ServicioWebCliente.pdb
+C:\Users\HP\Documents\UNACH\LIC. SISTEMAS COMPUTACIONALES\NOVENO SEMESTRE\SERVICIOS WEB\Github\Ejercicio4\ServicioWebCliente\obj\Debug\ServicioWebCliente.Form1.resources

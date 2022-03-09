@@ -16,5 +16,30 @@ namespace ServicioWebCliente
         {
             InitializeComponent();
         }
+        #region propiedades
+        ServiceReference1.WebService1SoapClient CEVA = new ServiceReference1.WebService1SoapClient();
+        #endregion 
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var resultado = CEVA.areacuadrado(Convert.ToDecimal(textBoxcuadrado.Text));
+            resultadocuadrado.Text = resultado.ToString();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+         
+            
+        }
+
+        private void basetrian_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
